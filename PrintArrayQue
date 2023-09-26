@@ -1,0 +1,6 @@
+Question : Write a java program to create an integer array by taking length as input from the user.take the contents of the array
+           from user and store the contents of the array on to the console.
+         
+         
+Explanation:We have to create an array of size taking  from the user and then store the elements in an array using for loop and
+            then display the elements of an array using for loop.
